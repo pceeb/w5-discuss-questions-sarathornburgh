@@ -1,7 +1,7 @@
 ## This questions are due next discussion section (Week6).
 
 1. Describe the Biology of your project? (one paragraph max).  
-
+  Our project will be analyzing data collected from fish species in French Polynesia. Our data looks at the different bacteria in the fishes' microbiomes. We will be analyzing the differences in the microbiomes of the fishes' depending on their different diets and microbiomes.
 2. Describe the kind of data that you think you will be handling (one paragraph max).  
 
 3. What would you like to do with that data? (one paragraph max).  
