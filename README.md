@@ -19,3 +19,13 @@ We will be using sed and awk to set up our tables.
 
 6. What is your biggest concern regarding your project? (a few sentences max).
 My biggest concern is being able to combine the data sheets sucessfully. Many of them have very different formatting that we need to make uniform across all of them before we can combine them.
+
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
